@@ -1,0 +1,6 @@
+# These files need not be tracked by git
+
+*.dat
+*~
+results/
+
